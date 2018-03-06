@@ -1,6 +1,6 @@
-# core-ui
+# hand2works Management System Web App
 
-> Open Source Admin Template
+This project is using Admin Template from Core UI https://github.com/mrholek/CoreUI-Vue
 
 ## Build Setup
 
@@ -26,5 +26,3 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
